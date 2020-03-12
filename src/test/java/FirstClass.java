@@ -4,5 +4,7 @@ public class FirstClass {
         System.out.println("brave new world");
         System.out.println("hi");
         System.out.println("hey");
+
+        System.out.println("new thing added");
     }
 }
