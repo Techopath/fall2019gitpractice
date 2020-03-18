@@ -5,6 +5,6 @@ public class FirstClass {
         System.out.println("hi");
         System.out.println("hey");
 
-        System.out.println("new thing added");
+        System.out.println("someone changed the code.");
     }
 }
