@@ -7,6 +7,8 @@ public class FirstClass {
         
         System.out.println("2 changed files"); //changed in github
 
+        System.out.println("3 files changed"); //changed in intelliJ
+
     }
 
 
